@@ -3,4 +3,3 @@ Learning Machine Learning from scratch through simple concepts, practical exampl
 
 
 
-<img width="1536" height="1090" alt="Supervised-Learning-1536x1090" src="https://github.com/user-attachments/assets/559447d2-3149-43e5-a8e7-fc59138f98d3" />
